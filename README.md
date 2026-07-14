@@ -34,8 +34,8 @@ This dashboard provides an easy-to-understand overview of the dataset using vari
 > Add screenshots of your dashboard inside an `Images` folder and update the paths below.
 
 ### Dashboard
+<img width="927" height="525" alt="powrBI" src="https://github.com/user-attachments/assets/96e40a05-cda7-47dd-933c-9047fdbd85de" />
 
-![Uploading powrBI.png…]()
 
 ---
 
